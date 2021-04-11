@@ -26,6 +26,8 @@ knitr::opts_chunk$set(echo = TRUE)
 Auf dieser Seite werden mit `Highcharter` erstellte Charts im HTML-Format hochgeladen, um sie in Blogposts auf [jantau.com](https://www.jantau.com) einbinden zu können.
 
 1. [Gewichtung](https://jantau.github.io/highchart/hc)
+2. [Gewichtung Einzelaktien](https://jantau.github.io/highchart/weight_stocks)
+3. [Gewichtung Sektoren](https://jantau.github.io/highchart/weight_sectors)
 
 
 ```{r include=FALSE}
