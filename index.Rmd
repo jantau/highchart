@@ -39,5 +39,6 @@ Auf dieser Seite werden mit `Highcharter` erstellte Charts im HTML-Format hochge
 
 ```{r include=FALSE}
 # https://psyteachr.github.io/hack-your-data/rmarkdown_2.html
+# https://jantau.github.io/highchart/
 ```
 
