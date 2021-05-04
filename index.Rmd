@@ -28,9 +28,13 @@ Auf dieser Seite werden mit `Highcharter` erstellte Charts im HTML-Format hochge
 1. [Gewichtung](https://jantau.github.io/highchart/hc)
 2. [Gewichtung Einzelaktien](https://jantau.github.io/highchart/weight_stocks)
 3. [Gewichtung Sektoren](https://jantau.github.io/highchart/weight_sectors)
-4. [NASDAQ 100 1995 bis April 2021](https://jantau.github.io/highchart/ndx_1995_today)
-5. [NASDAQ 100 1995 bis April 2021 logarithmische Darstellung](https://jantau.github.io/highchart/ndx_1995_today_logs)
-6. [NASDAQ 100 vor Blasen](https://jantau.github.io/highchart/ndx_periods)
+4. [Nasdaq 100 1995 bis April 2021](https://jantau.github.io/highchart/ndx_1995_today)
+5. [Nasdaq 100 1995 bis April 2021 logarithmische Darstellung](https://jantau.github.io/highchart/ndx_1995_today_logs)
+6. [Nasdaq 100 vor Blasen](https://jantau.github.io/highchart/ndx_periods)
+7. [Nasdaq 100 Bar Chart](https://jantau.github.io/highchart/nasdaq_bar_chart)
+8. [Nasdaq 100 Bubble Chart](https://jantau.github.io/highchart/nasdaq_bubble_chart)
+9. [Nasdaq 100 Treemap Chart](https://jantau.github.io/highchart/nasdaq_treemap_chart)
+10. [Nasdaq 100 Packed Bubble Chart](https://jantau.github.io/highchart/nasdaq_packedbubble_chart)
 
 
 ```{r include=FALSE}
