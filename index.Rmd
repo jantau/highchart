@@ -35,6 +35,7 @@ Auf dieser Seite werden mit `Highcharter` erstellte Charts im HTML-Format hochge
 8. [Nasdaq 100 Bubble Chart](https://jantau.github.io/highchart/nasdaq_bubble_chart)
 9. [Nasdaq 100 Treemap Chart](https://jantau.github.io/highchart/nasdaq_treemap_chart)
 10. [Nasdaq 100 Packed Bubble Chart](https://jantau.github.io/highchart/nasdaq_packedbubble_chart)
+11. [Nasdaq 100 Packed Bubble Chart](https://jantau.github.io/highchart/nasdaq_line_chart)
 
 
 ```{r include=FALSE}
