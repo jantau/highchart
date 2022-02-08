@@ -36,6 +36,8 @@ Auf dieser Seite werden mit `Highcharter` erstellte Charts im HTML-Format hochge
 9. [Nasdaq 100 Treemap Chart](https://jantau.github.io/highchart/nasdaq_treemap_chart)
 10. [Nasdaq 100 Packed Bubble Chart](https://jantau.github.io/highchart/nasdaq_packedbubble_chart)
 11. [Nasdaq 100 Packed Bubble Chart](https://jantau.github.io/highchart/nasdaq_line_chart)
+12. [FAANG Openings nach Quartalszahlen](https://jantau.github.io/highchart/faang_openings)
+13. [FAANG Density Openings](https://jantau.github.io/highchart/faang_density)
 
 
 ```{r include=FALSE}
