@@ -38,6 +38,9 @@ Auf dieser Seite werden mit `Highcharter` erstellte Charts im HTML-Format hochge
 11. [Nasdaq 100 Packed Bubble Chart](https://jantau.github.io/highchart/nasdaq_line_chart)
 12. [FAANG Openings nach Quartalszahlen](https://jantau.github.io/highchart/faang_openings)
 13. [FAANG Density Openings](https://jantau.github.io/highchart/faang_density)
+14. [Sektoren-ETFs](https://jantau.github.io/highchart/sector_etfs)
+15. [Sektoren-Gewichtung](https://jantau.github.io/highchart/sector_weight)
+16. [Sektoren-Aktien](https://jantau.github.io/highchart/single_stocks)
 
 
 ```{r include=FALSE}
